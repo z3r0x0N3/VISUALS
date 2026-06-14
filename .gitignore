@@ -1,0 +1,5 @@
+.AUTH/
+build/
+.env
+*.key
+credentials*
